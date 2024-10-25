@@ -3,7 +3,9 @@
 - [vite](https://vite.dev/)
 - [lightgallery](https://www.lightgalleryjs.com/)
 
-# TODO
+## WIP
 - Dockerize
-- [imgproxy](https://imgproxy.net/) integration
 - Deploy
+
+## TODO
+- [imgproxy](https://imgproxy.net/) integration
